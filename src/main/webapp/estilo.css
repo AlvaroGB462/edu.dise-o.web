@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+.fondoAzul {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    background-color: #a0eefe; 
+    padding: 10px; 
+}
+
+.alinear {
+    display: flex; 
+    align-items: center; 
+}
+
+.espacio{
+    margin-right: 5px; 
+}
+
+.logo {
+    max-height: 50px; 
+}
+
+.icono{
+    display: flex; 
+    flex-direction: column;
+    cursor: pointer;
+    margin-left: 10px;
+}
